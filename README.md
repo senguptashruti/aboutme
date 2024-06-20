@@ -17,7 +17,7 @@ Introduction
 
 - ⚡ Fun fact **I am a cat mom and pro-animal lover**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/senguptashruti/</h3>
 <p align="left">
 </p>
 
