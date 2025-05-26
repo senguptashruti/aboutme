@@ -1,23 +1,22 @@
 # aboutme
 Introduction
 <h1 align="center">Hi 👋, I'm Shruti Sengupta</h1>
-<h3 align="center">A passionate data analyst with expertise in Biological data.</h3>
 
-- 🔭 I’m currently working on **analysing livestock data and creating maps in GEE**
+I am a detail-focused Data Analyst based in Bengaluru, India, with extensive experience in statistical and spatial analysis, machine learning, and data visualisation. I hold a postgraduate certificate in Business Analytics and an M.Sc. in Zoology, and I have applied my analytical expertise across ecology, wildlife conservation, and commercial consulting projects. I translate complex data into clear, actionable insights and interactive dashboards that support strategic decision-making.
 
-- 🌱 I’m currently learning **business analytics from MAHE**
+Core Skills
+Data Analysis & Visualisation: Power BI, QGIS, ArcGIS, Google Earth Engine
 
-- 👯 I’m looking to collaborate on **various data analytics project focusing on biological data**
+Programming & Statistical Tools: Python (Jupyter Notebooks), R, SQL
 
-- 👨‍💻 All of my projects are available at [www.shrutisengupta.wordpress.com](www.shrutisengupta.wordpress.com)
+Spatial & Ecological Analysis: GIS/RS workflows, species distribution mapping
 
-- 💬 Ask me about **Data cleaning, R, excel, RS/GIS**
+Reporting & Project Management: Report writing, data validation, stakeholder presentations
 
-- 📫 How to reach me **senguptashruti@gmail.com**
 
-- ⚡ Fun fact **I am a cat mom and pro-animal lover**
-
+Portfolio & Contact
 <h3 align="left">Connect with me:https://www.linkedin.com/in/senguptashruti/</h3>
+<h3 align="left">Blog & Analytics Portfolio: https://shrutisengupta.wordpress.com/</h3>
 <p align="left">
 </p>
 
