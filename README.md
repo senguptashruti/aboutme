@@ -4,7 +4,8 @@ Introduction
 
 I am a detail-focused Data Analyst based in Bengaluru, India, with extensive experience in statistical and spatial analysis, machine learning, and data visualisation. I hold a postgraduate certificate in Business Analytics and an M.Sc. in Zoology, and I have applied my analytical expertise across ecology, wildlife conservation, and commercial consulting projects. I translate complex data into clear, actionable insights and interactive dashboards that support strategic decision-making.
 
-Core Skills
+Core Skills <p align="left">
+</p>
 Data Analysis & Visualisation: Power BI, QGIS, ArcGIS, Google Earth Engine
 
 Programming & Statistical Tools: Python (Jupyter Notebooks), R, SQL
