@@ -13,8 +13,6 @@ Spatial & Ecological Analysis: GIS/RS workflows, species distribution mapping
 
 Reporting & Project Management: Report writing, data validation, stakeholder presentations
 
-
-Portfolio & Contact
 <h3 align="left">Connect with me:https://www.linkedin.com/in/senguptashruti/</h3>
 <h3 align="left">Blog & Analytics Portfolio: https://shrutisengupta.wordpress.com/</h3>
 <p align="left">
