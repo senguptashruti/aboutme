@@ -19,9 +19,9 @@ Reporting & Project Management: Report writing, data validation, stakeholder pre
 </p>
 
 <h1 align="center">Links to my project repositories</h1>
-<h3 align="left">Python projects: (https://github.com/senguptashruti/Py_projects)/</h3>
-<h3 align="left">PowerBi projects:(https://github.com/senguptashruti/PowerBI_projects)/</h3>
-<h3 align="left">R-projects:(https://github.com/senguptashruti/R-projects)/</h3> 
+<h3 align="left">Python projects: https://github.com/senguptashruti/Py_projects/</h3>
+<h3 align="left">PowerBi projects:https://github.com/senguptashruti/PowerBI_projects/</h3>
+<h3 align="left">R-projects:https://github.com/senguptashruti/R-projects/</h3> 
 <p align="left">
 </p>
 
