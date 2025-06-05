@@ -1,5 +1,5 @@
 # aboutme
-Introduction
+
 <h1 align="center">Hi 👋, I'm Shruti Sengupta</h1>
 
 I am a detail-focused Data Analyst based in Bengaluru, India, with extensive experience in statistical and spatial analysis, machine learning, and data visualisation. I hold a postgraduate certificate in Business Analytics and an M.Sc. in Zoology, and I have applied my analytical expertise across ecology, wildlife conservation, and commercial consulting projects. I translate complex data into clear, actionable insights and interactive dashboards that support strategic decision-making.
@@ -13,8 +13,15 @@ Spatial & Ecological Analysis: GIS/RS workflows, species distribution mapping
 
 Reporting & Project Management: Report writing, data validation, stakeholder presentations
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/senguptashruti/</h3>
-<h3 align="left">Blog & Analytics Portfolio: https://shrutisengupta.wordpress.com/</h3>
+<h4 align="left">Connect with me:https://www.linkedin.com/in/senguptashruti/</h4>
+<h4 align="left">Blog & Analytics Portfolio: https://shrutisengupta.wordpress.com/</h4>
+<p align="left">
+</p>
+
+<h1 align="center">Links to my project repositories</h1>
+<h3 align="left">Python projects: (https://github.com/senguptashruti/Py_projects)/</h3>
+<h3 align="left">PowerBi projects:(https://github.com/senguptashruti/PowerBI_projects)/</h3>
+<h3 align="left">R-projects:(https://github.com/senguptashruti/R-projects)/</h3> 
 <p align="left">
 </p>
 
